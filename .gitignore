@@ -1,0 +1,6 @@
+tls-proxy
+tls-proxy-*
+ca.crt
+*.crt
+*.key
+coverage.out
