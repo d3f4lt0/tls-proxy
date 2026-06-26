@@ -1,4 +1,16 @@
-# 🔐 TLS Proxy
+```
+ ████████╗██╗     ███████╗      ██████╗ ██████╗  ██████╗ ██╗  ██╗██╗   ██╗
+    ██╔══╝██║     ██╔════╝      ██╔══██╗██╔══██╗██╔═══██╗╚██╗██╔╝╚██╗ ██╔╝
+    ██║   ██║     ███████╗█████╗██████╔╝██████╔╝██║   ██║ ╚███╔╝  ╚████╔╝ 
+    ██║   ██║     ╚════██║╚════╝██╔═══╝ ██╔══██╗██║   ██║ ██╔██╗   ╚██╔╝  
+    ██║   ███████╗███████║      ██║     ██║  ██║╚██████╔╝██╔╝ ██╗   ██║   
+    ╚═╝   ╚══════╝╚══════╝      ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝  
+```
+<div align="center">
+
+> *you can't unsee what's inside the wire.*
+
+</div>
 
 > **MITM TLS interception proxy in Go** — dynamic CA, per-host certificate issuance, traffic inspection, and a composable tamper engine.
 
