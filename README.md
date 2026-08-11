@@ -174,7 +174,7 @@ tls-proxy/
 | [`http2-inspector`](https://github.com/d3f4lt0/http2-inspector) | Frame-level HTTP/2 protocol tracer |
 | [`fingerprint-audit`](https://github.com/d3f4lt0/fingerprint-audit) | Browser fingerprint diagnostic suite |
 | [`anti-bot-engine`](https://github.com/d3f4lt0/anti-bot-engine) | Go middleware: rate limiting + entropy detection + honeypots |
-| [`quantum-stealth-kernel`](https://github.com/d3f4lt0/quantum-stealth-kernel) | JA3/TLS impersonation + CDP fingerprint neutralization |
+| [`quantum-stealth-kernel`](https://github.com/d3f4lt0/quantum-stealth-kernel) | JA3/TLS impersonation + CDP fingerprint neutralization | 
 
 ---
 
